@@ -82,7 +82,12 @@ body {
     border: 2px solid #009b3a;
     border-radius: 50px;
     text-decoration: none;
+    background-clip: padding-box;
+    border-radius: 40px;
   }
+
+  
+  
   
   .cta-button:hover {
     background-color: #e6be00;
